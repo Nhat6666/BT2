@@ -1,1 +1,4 @@
 # BT2
+Nguyễn Bá Minh Nhật
+MSSV:106230020
+Lớp:KTMT1
